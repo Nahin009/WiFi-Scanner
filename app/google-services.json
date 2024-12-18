@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1071167925156",
+    "firebase_url": "https://wifi-signal-89666-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wifi-signal-89666",
+    "storage_bucket": "wifi-signal-89666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071167925156:android:f2db621f997775050daf31",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3fFiApN-6pItq0IK5u8hVFV7VE8Q3SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
