@@ -1,0 +1,2 @@
+# WiFi Scanner
+This is an Android application (APK) which scans Wi-Fi access points detected by the Android device, collecting details like SSIDs, MAC addresses, and, most importantly, the signal strengths of each access point. The gathered data is then uploaded to Firebase Realtime Database for further analysis. This application was built for the data collection of my undergraduate thesis. This APK was used for manual and mass data collection both.
